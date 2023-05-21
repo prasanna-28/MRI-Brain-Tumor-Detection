@@ -1,5 +1,5 @@
 # MRI-Brain-Tumor-Detection
-Python brain tumor detection model
+Python brain tumor detection model with an accuracy over 0.99, or 99%
 
 Below are the outputs of tester.py, which ran the model on pred. 
 
