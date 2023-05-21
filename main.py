@@ -8,7 +8,7 @@ from tensorflow.keras.layers import Conv2D, MaxPool2D, Flatten, Dense, Dropout
 TRAIN_DIR = './'
 IMG_SIZE = 64
 BATCH_SIZE = 32
-EPOCHS = 40
+EPOCHS = 50
 
 # Load and label the training images manually
 images = []
