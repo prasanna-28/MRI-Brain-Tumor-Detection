@@ -2,6 +2,7 @@
 Python brain tumor detection model
 
 Below are the outputs of tester.py, which ran the model on pred. 
+
 ![Image](pred/pred0.jpg)
 - No Tumor Detected
 
